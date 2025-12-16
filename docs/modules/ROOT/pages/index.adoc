@@ -1,0 +1,27 @@
+= Home
+:source-language: go
+
+This is the home page for the Go progamming language section
+
+== Simple test!
+
+This is just an example:
+
+.Hello World!
+[source]
+----
+package main
+
+import (
+    "fmt"
+)
+
+var (
+    tmp string = "Hello, World!"
+)
+
+func main() {
+    fmt.Println(tmp)
+}
+----
+
