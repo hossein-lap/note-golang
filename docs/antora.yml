@@ -1,0 +1,6 @@
+name: golang-programming
+version: ~
+title: Go Programming Language
+start_page: home-page::index.adoc
+nav:
+- modules/ROOT/nav.adoc
