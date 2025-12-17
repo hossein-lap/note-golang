@@ -1,6 +1,6 @@
 name: golang-programming
 version: 0.1.0
 title: Go Programming Language
-start_page: hos-docs::index.adoc
+start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
