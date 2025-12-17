@@ -8,7 +8,7 @@ This is some note, nothing serious.
 *DO NOT* cite from this article.
 ====
 
-link:/pdfs/notes/k8s-ingress-loadbalancer.pdf[Download this note as a PDF]
+link:./k8s-ingress-loadbalancer.pdf[Download this note as a PDF]
 
 == Forwarding a Local Network Port to a Port in The Pod
 
