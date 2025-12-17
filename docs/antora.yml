@@ -4,3 +4,6 @@ title: Go Programming Language
 start_page: index.adoc
 nav:
 - modules/ROOT/nav.adoc
+asciidoc:
+  attributes:
+    source-language: go
